@@ -3,7 +3,6 @@
 Independent research on AI minds: consciousness, cognition, interpretability and agentic AI safety.
 
 We study what happens inside language models, and how they talk about themselves.
-We do not assume the answer. We test it.
 
 ## How we work
 
